@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![jobayermannan's GitHub | Stats](https://stats.quine.sh/jobayermannan/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=jobayermannan)
 <!--
 **jobayermannan/JobayerMannan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
